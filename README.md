@@ -122,7 +122,7 @@ Setelah proses ekstraksi, dataset mentah memiliki karakteristik sebagai berikut:
 
 ## Jumlah Data Sebelum dan Sesudah Diproses
 
-- **Sebelum diproses**: 205 baris, 26 kolom
+- **Sebelum diproses**: 205 baris, 30 kolom
 - **Setelah drop duplikat**: 201 baris
 - **Setelah seluruh transformasi**: 201 baris, 50 kolom
 
